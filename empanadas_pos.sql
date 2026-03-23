@@ -8,13 +8,6 @@ SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 SET NAMES utf8mb4;
 
--- Crear base de datos
-CREATE DATABASE IF NOT EXISTS `empanadas_pos`
-  CHARACTER SET utf8mb4
-  COLLATE utf8mb4_unicode_ci;
-
-USE `empanadas_pos`;
-
 -- -----------------------------------------------------------
 -- TABLA: migrations
 -- -----------------------------------------------------------
