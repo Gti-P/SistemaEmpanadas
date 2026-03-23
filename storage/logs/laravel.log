@@ -1,0 +1,84 @@
+[2026-03-23 01:44:08] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate/Log/LogManager->resolve()
+#1 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate/Log/LogManager->get()
+#2 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(681): Illuminate/Log/LogManager->driver()
+#3 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate/Log/LogManager->error()
+#4 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate/Foundation/Exceptions/Handler->reportThrowable()
+#5 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(523): Illuminate/Foundation/Exceptions/Handler->report()
+#6 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(203): Illuminate/Foundation/Console/Kernel->reportException()
+#7 D:/Proyecto Empanadas/artisan(35): Illuminate/Foundation/Console/Kernel->handle()
+#8 {main}
+"} 
+[2026-03-23 01:44:08] laravel.ERROR: Method Illuminate\Foundation\Console\ClosureCommand::hourly does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Foundation\\Console\\ClosureCommand::hourly does not exist. at D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Macroable/Traits/Macroable.php:112)
+[stacktrace]
+#0 D:/Proyecto Empanadas/routes/console.php(8): Illuminate/Console/Command->__call()
+#1 D:/Proyecto Empanadas/app/Console/Kernel.php(30): require('...')
+#2 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(453): App/Console/Kernel->commands()
+#3 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(199): Illuminate/Foundation/Console/Kernel->bootstrap()
+#4 D:/Proyecto Empanadas/artisan(35): Illuminate/Foundation/Console/Kernel->handle()
+#5 {main}
+"} 
+[2026-03-23 01:44:15] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate/Log/LogManager->resolve()
+#1 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate/Log/LogManager->get()
+#2 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(681): Illuminate/Log/LogManager->driver()
+#3 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate/Log/LogManager->error()
+#4 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate/Foundation/Exceptions/Handler->reportThrowable()
+#5 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(523): Illuminate/Foundation/Exceptions/Handler->report()
+#6 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(203): Illuminate/Foundation/Console/Kernel->reportException()
+#7 D:/Proyecto Empanadas/artisan(35): Illuminate/Foundation/Console/Kernel->handle()
+#8 {main}
+"} 
+[2026-03-23 01:44:15] laravel.ERROR: Method Illuminate\Foundation\Console\ClosureCommand::hourly does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Foundation\\Console\\ClosureCommand::hourly does not exist. at D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Macroable/Traits/Macroable.php:112)
+[stacktrace]
+#0 D:/Proyecto Empanadas/routes/console.php(8): Illuminate/Console/Command->__call()
+#1 D:/Proyecto Empanadas/app/Console/Kernel.php(30): require('...')
+#2 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(453): App/Console/Kernel->commands()
+#3 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(199): Illuminate/Foundation/Console/Kernel->bootstrap()
+#4 D:/Proyecto Empanadas/artisan(35): Illuminate/Foundation/Console/Kernel->handle()
+#5 {main}
+"} 
+[2026-03-23 01:44:23] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate/Log/LogManager->resolve()
+#1 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate/Log/LogManager->get()
+#2 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(681): Illuminate/Log/LogManager->driver()
+#3 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate/Log/LogManager->error()
+#4 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate/Foundation/Exceptions/Handler->reportThrowable()
+#5 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(523): Illuminate/Foundation/Exceptions/Handler->report()
+#6 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(203): Illuminate/Foundation/Console/Kernel->reportException()
+#7 D:/Proyecto Empanadas/artisan(35): Illuminate/Foundation/Console/Kernel->handle()
+#8 {main}
+"} 
+[2026-03-23 01:44:23] laravel.ERROR: Method Illuminate\Foundation\Console\ClosureCommand::hourly does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Foundation\\Console\\ClosureCommand::hourly does not exist. at D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Macroable/Traits/Macroable.php:112)
+[stacktrace]
+#0 D:/Proyecto Empanadas/routes/console.php(8): Illuminate/Console/Command->__call()
+#1 D:/Proyecto Empanadas/app/Console/Kernel.php(30): require('...')
+#2 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(453): App/Console/Kernel->commands()
+#3 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(199): Illuminate/Foundation/Console/Kernel->bootstrap()
+#4 D:/Proyecto Empanadas/artisan(35): Illuminate/Foundation/Console/Kernel->handle()
+#5 {main}
+"} 
+[2026-03-23 01:44:39] laravel.EMERGENCY: Unable to create configured logger. Using emergency logger. {"exception":"[object] (InvalidArgumentException(code: 0): Log [] is not defined. at D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php:212)
+[stacktrace]
+#0 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(137): Illuminate/Log/LogManager->resolve()
+#1 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(124): Illuminate/Log/LogManager->get()
+#2 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(681): Illuminate/Log/LogManager->driver()
+#3 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(317): Illuminate/Log/LogManager->error()
+#4 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(278): Illuminate/Foundation/Exceptions/Handler->reportThrowable()
+#5 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(523): Illuminate/Foundation/Exceptions/Handler->report()
+#6 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(203): Illuminate/Foundation/Console/Kernel->reportException()
+#7 D:/Proyecto Empanadas/artisan(35): Illuminate/Foundation/Console/Kernel->handle()
+#8 {main}
+"} 
+[2026-03-23 01:44:39] laravel.ERROR: Method Illuminate\Foundation\Console\ClosureCommand::everyHour does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method Illuminate\\Foundation\\Console\\ClosureCommand::everyHour does not exist. at D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Macroable/Traits/Macroable.php:112)
+[stacktrace]
+#0 D:/Proyecto Empanadas/routes/console.php(8): Illuminate/Console/Command->__call()
+#1 D:/Proyecto Empanadas/app/Console/Kernel.php(30): require('...')
+#2 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(453): App/Console/Kernel->commands()
+#3 D:/Proyecto Empanadas/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(199): Illuminate/Foundation/Console/Kernel->bootstrap()
+#4 D:/Proyecto Empanadas/artisan(35): Illuminate/Foundation/Console/Kernel->handle()
+#5 {main}
+"} 
